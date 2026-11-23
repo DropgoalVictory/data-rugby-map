@@ -322,35 +322,45 @@
       "time": "",
       "home_team_id": 21208,
       "away_team_id": 6835,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283178"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283178",
+      "home_score": 36,
+      "away_score": 39
     },
     {
       "date": "2026-11-21",
-      "time": "14:15",
+      "time": "",
       "home_team_id": 6857,
       "away_team_id": 19363,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283177"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283177",
+      "home_score": 19,
+      "away_score": 25
     },
     {
       "date": "2026-11-21",
       "time": "",
       "home_team_id": 10011,
       "away_team_id": 13208,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283175"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283175",
+      "home_score": 22,
+      "away_score": 12
     },
     {
       "date": "2026-11-21",
-      "time": "14:15",
+      "time": "",
       "home_team_id": 11254,
       "away_team_id": 12885,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283174"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283174",
+      "home_score": 34,
+      "away_score": 38
     },
     {
       "date": "2026-11-21",
-      "time": "14:15",
+      "time": "",
       "home_team_id": 26044,
       "away_team_id": 12909,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283173"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1283173",
+      "home_score": 62,
+      "away_score": 24
     },
     {
       "date": "2026-11-28",

@@ -370,32 +370,40 @@
       "away_score": 32
     },
     {
+      "date": "2026-11-20",
+      "time": "",
+      "home_team_id": 26285,
+      "away_team_id": 7889,
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1333886",
+      "home_score": 22,
+      "away_score": 0
+    },
+    {
       "date": "2026-11-21",
       "time": "",
       "home_team_id": 6516,
       "away_team_id": 14007,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293162"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293162",
+      "home_score": 35,
+      "away_score": 25
     },
     {
       "date": "2026-11-21",
       "time": "",
       "home_team_id": 7485,
       "away_team_id": 13322,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293160"
-    },
-    {
-      "date": "2026-11-21",
-      "time": "",
-      "home_team_id": 26285,
-      "away_team_id": 7889,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293158"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293160",
+      "home_score": 123,
+      "away_score": 5
     },
     {
       "date": "2026-11-21",
       "time": "",
       "home_team_id": 12865,
       "away_team_id": 9184,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293159"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293159",
+      "home_score": 27,
+      "away_score": 25
     },
     {
       "date": "2026-11-21",
@@ -409,7 +417,9 @@
       "time": "",
       "home_team_id": 25740,
       "away_team_id": 21303,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293161"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293161",
+      "home_score": 31,
+      "away_score": 24
     },
     {
       "date": "2026-11-28",

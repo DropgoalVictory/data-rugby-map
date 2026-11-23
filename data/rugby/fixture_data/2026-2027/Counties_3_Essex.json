@@ -270,38 +270,48 @@
     },
     {
       "date": "2026-11-21",
-      "time": "14:00",
+      "time": "",
       "home_team_id": 18403,
       "away_team_id": 3073,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293494"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293494",
+      "home_score": 5,
+      "away_score": 91
     },
     {
       "date": "2026-11-21",
       "time": "",
       "home_team_id": 5113,
       "away_team_id": 26200,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293495"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293495",
+      "home_score": 7,
+      "away_score": 71
     },
     {
       "date": "2026-11-21",
       "time": "",
       "home_team_id": 7711,
       "away_team_id": 25764,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293496"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293496",
+      "home_score": 33,
+      "away_score": 19
     },
     {
       "date": "2026-11-21",
       "time": "",
       "home_team_id": 13906,
       "away_team_id": 124853,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293497"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293497",
+      "home_score": 24,
+      "away_score": 24
     },
     {
       "date": "2026-11-21",
       "time": "",
       "home_team_id": 15564,
       "away_team_id": 17908,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293493"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1293493",
+      "home_score": 7,
+      "away_score": 61
     },
     {
       "date": "2026-12-05",

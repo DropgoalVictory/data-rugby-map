@@ -4,31 +4,39 @@
   "fixtures": [
     {
       "date": "2026-11-20",
-      "time": "19:30",
+      "time": "",
       "home_team_id": 12828,
       "away_team_id": 127626,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307544"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307544",
+      "home_score": 14,
+      "away_score": 29
     },
     {
       "date": "2026-11-21",
-      "time": "14:00",
+      "time": "",
       "home_team_id": 124298,
       "away_team_id": 8668,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307543"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307543",
+      "home_score": 31,
+      "away_score": 17
     },
     {
       "date": "2026-11-22",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 9416,
       "away_team_id": 3252,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307545"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307545",
+      "home_score": 21,
+      "away_score": 48
     },
     {
       "date": "2026-11-22",
-      "time": "13:00",
+      "time": "",
       "home_team_id": 18764,
       "away_team_id": 124608,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307546"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307546",
+      "home_score": 100,
+      "away_score": 14
     },
     {
       "date": "2026-11-28",
@@ -144,13 +152,6 @@
     },
     {
       "date": "2027-01-02",
-      "time": "",
-      "home_team_id": 124298,
-      "away_team_id": 9416,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307570"
-    },
-    {
-      "date": "2027-01-02",
       "time": "15:00",
       "home_team_id": 127626,
       "away_team_id": 18764,
@@ -162,6 +163,13 @@
       "home_team_id": 8668,
       "away_team_id": 123836,
       "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307569"
+    },
+    {
+      "date": "2027-01-03",
+      "time": "14:15",
+      "home_team_id": 124298,
+      "away_team_id": 9416,
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307570"
     },
     {
       "date": "2027-01-03",
@@ -228,31 +236,31 @@
     },
     {
       "date": "2027-01-23",
-      "time": "",
-      "home_team_id": 123836,
-      "away_team_id": 3252,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307585"
-    },
-    {
-      "date": "2027-01-23",
-      "time": "",
-      "home_team_id": 8668,
-      "away_team_id": 127626,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307583"
-    },
-    {
-      "date": "2027-01-23",
-      "time": "",
+      "time": "15:00",
       "home_team_id": 9416,
       "away_team_id": 18764,
       "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307586"
     },
     {
       "date": "2027-01-23",
-      "time": "",
+      "time": "13:00",
       "home_team_id": 124298,
       "away_team_id": 124608,
       "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307584"
+    },
+    {
+      "date": "2027-01-24",
+      "time": "13:00",
+      "home_team_id": 123836,
+      "away_team_id": 3252,
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307585"
+    },
+    {
+      "date": "2027-01-24",
+      "time": "15:00",
+      "home_team_id": 8668,
+      "away_team_id": 127626,
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1307583"
     },
     {
       "date": "2027-02-06",

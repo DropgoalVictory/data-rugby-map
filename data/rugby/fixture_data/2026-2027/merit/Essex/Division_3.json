@@ -111,9 +111,10 @@
     {
       "date": "2026-11-21",
       "time": "",
-      "home_team_id": 7712,
-      "away_team_id": 6052,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1309921"
+      "home_team_id": 6052,
+      "away_team_id": 7712,
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1309921",
+      "status": "AWO"
     },
     {
       "date": "2026-11-21",
@@ -237,8 +238,8 @@
     {
       "date": "2027-02-27",
       "time": "",
-      "home_team_id": 6052,
-      "away_team_id": 7712,
+      "home_team_id": 7712,
+      "away_team_id": 6052,
       "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1309945"
     },
     {
